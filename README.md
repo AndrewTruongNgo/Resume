@@ -1,8 +1,8 @@
 # Andrew Ngo
 San Francisco  |  (858) 776-1399 <br />
 AndrewTruongNgo@gmail.com <br />
-Github.com/AndrewTruongNgo <br />
-Linkedin.com/in/andrew-ngo <br />
+https://github.com/AndrewTruongNgo <br />
+https://www.linkedin.com/in/andrew-ngo <br />
 
 ---
 ### TECHNICAL SKILLS
