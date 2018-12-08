@@ -18,12 +18,12 @@ Other: Git, Jest, Enzyme, Mocha, Chai, Docker, AWS EC2, Amazon RDS, K6.io, New R
 -	Improved performance by 500 RPS by implementing caching with Redis in-memory database
 -	Conducted controlled stress tests with K6.io to simulate high traffic load to identify performance bottlenecks
 
-#### Bearbnb: Full-stack house rental listing app - see [Bearbnb] (https://github.com/Bearbnb/booking-widget)
+#### Bearbnb: Full-stack house rental listing app - see [Bearbnb](https://github.com/Bearbnb/booking-widget)
 -	Developed booking microservice and custom calendar component using React, node libraries, and Styled Components to create dynamic UI/UX design
 -	Increased scalability and security of microservices with proxy server created with Express and deployed on AWS
 -	Implemented agile TDD workflow practices with team of engineers to ensure prompt delivery of final product
 
-#### Boba Stop: Full-stack restaurant review platform - see [Boba Stop] (https://github.com/AndrewTruongNgo/Boba-Stop)
+#### Boba Stop: Full-stack restaurant review platform - see [Boba Stop](https://github.com/AndrewTruongNgo/Boba-Stop)
 -	Developed full-stack web app that rates and evaluates various restaurants using React, Node.js, and MySQL
 -	Integrated RESTful APIs using Express framework which handled client-side requests and server responses
 
